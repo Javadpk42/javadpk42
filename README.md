@@ -36,6 +36,10 @@
 ## Technologies and Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
@@ -53,5 +57,7 @@
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Data_Structures-006400?style=for-the-badge" alt="Data Structures" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-4E4E4E?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />&nbsp;&nbsp;
+
 </p>
 </p>
